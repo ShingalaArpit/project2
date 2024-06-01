@@ -1,0 +1,481 @@
+/* offline font connectivity */
+
+/* poppins-300 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 300;
+    src: url('../fonts/poppins-v20-latin-300.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-300.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-300.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-300.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-300.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-regular - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    src: url('../fonts/poppins-v20-latin-regular.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-regular.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-regular.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-regular.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-regular.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-500 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    src: url('../fonts/poppins-v20-latin-500.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-500.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-500.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-500.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-500.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-600 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 600;
+    src: url('../fonts/poppins-v20-latin-600.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-600.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-600.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-600.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-600.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-700 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    src: url('../fonts/poppins-v20-latin-700.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-700.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-700.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-700.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-700.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-800 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 800;
+    src: url('../fonts/poppins-v20-latin-800.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-800.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-800.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-800.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-800.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* poppins-900 - latin */
+@font-face {
+    font-display: swap;
+    /* Check https://developer.mozilla.org/en-US/docs/Web/CSS/@font-face/font-display for other options. */
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 900;
+    src: url('../fonts/poppins-v20-latin-900.eot');
+    /* IE9 Compat Modes */
+    src: url('../fonts/poppins-v20-latin-900.eot?#iefix') format('embedded-opentype'),
+        /* IE6-IE8 */
+        url('../fonts/poppins-v20-latin-900.woff2') format('woff2'),
+        /* Super Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.woff') format('woff'),
+        /* Modern Browsers */
+        url('../fonts/poppins-v20-latin-900.ttf') format('truetype'),
+        /* Safari, Android, iOS */
+        url('../fonts/poppins-v20-latin-900.svg#Poppins') format('svg');
+    /* Legacy iOS */
+}
+
+/* ========================================== Default CSS ================================= */
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+/* .container{
+    width: 100% !important;
+    padding: 0 12px;
+    margin: 0 auto;
+} */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Poppins', sans-serif!important;
+}
+
+a{
+    text-decoration: none!important;
+}
+ul{
+    list-style: none!important;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.p-4rem-2rem{
+    padding: 64px 32px;
+}
+
+:root {
+    --dark-blue:#106eea;
+    --white-color:#fff;
+    --black-color:#000;
+    --heading-text-color:#1F1F2E;
+    --p-tag-color:#757575;
+    --button-color:#FF4800;
+}
+
+.orange_bg{
+    background-color: #FF4800;
+}
+
+.text-orange{
+    color: #FF4800;
+}
+
+a:hover{
+    color: #b33200;
+}
+
+.btn_get{
+    border-color: var(--button-color);
+    background-color: var(--button-color);
+    color: var(--white-color);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.btn_get:hover{
+    background-color: #d93d00;
+    border-color: #d93d00;
+    color: var(--white-color);
+}
+
+/*  ========================================== Header Section CSS ================================= */
+.bg_theme{
+    background-color: #1F1F2E;
+    /* background-color: red; */
+}
+.contact li a,
+.social li a{
+    color: var(--white-color);
+    transition: 0.5s;
+}
+.contact li a:hover,
+.social li a:hover{
+    color: var(--button-color);
+}
+.contact li{
+    font-size: 14px;
+}
+.contact .vr{
+    color: white;
+    opacity: 1;
+}
+
+/*  ========================================== menu Section CSS ================================= */
+
+.navbar-brand{
+    font-size: 40px!important;
+    color: var(--button-color)!important;
+    font-weight: 800!important;
+}
+.nav-item .nav-link{
+    color: var(--black-color);
+    /* padding: 30px 15px; */
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #1F1F2E;
+    outline: none;
+}
+.nav-link.active,
+.nav-link:hover{
+    background-color: var(--button-color);
+    color: var(--white-color)!important;
+}
+.btn_get{
+    border-color: var(--button-color);
+    background-color: var(--button-color);
+    color: var(--white-color);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.btn_get:hover{
+    background-color: #d93d00;
+    border-color: #d93d00;
+}
+
+/*  ========================================== home Section CSS ================================= */
+
+.home_image{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(../image/header.jpg);
+    background-size: cover;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+.inner-item h2{
+    color: var(--button-color);
+    font-size: 40px;
+}
+.inner-item h1{
+    font-size: 72px;
+}
+.form-control:focus{
+    border-color: var(--button-color)!important;
+}
+@media screen and (max-width: 1200px){
+    .display-3{
+        font-size: calc(1.575rem + 3.9vw) !important;
+    }  
+}
+
+/*  ========================================== about Section CSS ================================= */
+button{
+    cursor: pointer;
+}
+
+.btn-play{
+    position: relative;
+}
+span i{
+    font-size: 20px;
+    z-index: 2;
+    position: sticky;
+}
+.btn-play:before{
+    content: "";
+    position: absolute;
+    z-index: 0;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 60px;
+    height: 60px;
+    background-color: #FF4800;
+    border-radius: 50%;
+    animation: pulse-border 1500ms ease-out infinite;
+}
+
+.btn-play:after{
+    content: "";
+    position: absolute;
+    z-index: 1;
+    left: 50%;
+    top: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    display: block;
+    width: 60px;
+    height: 60px;
+    background-color: #FF4800;
+    border-radius: 50%;
+    transition: all 200ms;
+}
+@keyframes pulse-border {
+    0% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1);
+      opacity: 1;
+    }
+    100% {
+      transform: translateX(-50%) translateY(-50%) translateZ(0) scale(1.5);
+      opacity: 0;
+    }
+  }
+
+/*  ========================================== get a quote Section CSS ================================= */
+.quote{
+    background-color: #F2F2F4;
+}
+.form-select:focus {
+    border-color: transparent!important;
+    outline: 0;
+    box-shadow: none!important;
+}
+
+/*  ========================================== our services Section CSS ================================= */
+
+/*  ========================================== why choose Section CSS ================================= */
+.choose{
+    background-color: #F2F2F4;
+}
+.btn_get{
+    border-color: var(--button-color);
+    background-color: var(--button-color);
+    color: var(--white-color);
+    font-size: 16px;
+    font-weight: 500;
+    transition: 0.5s;
+}
+.btn_get:hover{
+    background-color: #d93d00;
+    border-color: #d93d00;
+}
+
+/*  ========================================== pricing plan Section CSS ================================= */
+.pricing_part{
+    background-color: #F2F2F4; 
+}
+
+/*  ========================================== delivery team Section CSS ================================= */
+
+.team_name{
+    background-color: #F2F2F4;
+    border-bottom: 5px solid var(--button-color);
+}
+.team-social{
+    position: absolute;
+    width: 100%;
+    height: 100px;
+    bottom: -100px;
+    left: 0;
+    transition: .5s;
+}
+.team_card_part:hover .team-social {
+    bottom: 0;
+}
+.team-social a{
+    width: 36px;
+    height: 36px;
+    text-align: center!important;
+}
+
+/*  ========================================== testimonial Section CSS ================================= */
+.client_box{
+    background-color: #F2F2F4;
+}
+.owl-theme .owl-dots .owl-dot.active span{
+    background-color: var(--button-color)!important;
+}
+.owl-theme .owl-dots .owl-dot span{
+    width: 12px!important;
+    height: 12px!important;
+    border-radius: 50%;
+}
+.owl-item.center div{
+    opacity: 1;
+    transition: .3s;
+
+}
+.owl-item div{
+    opacity: 0.5;
+}
+
+/*  ========================================== blog Section CSS ================================= */
+
+.blog_inner_text{
+    background-color: #F2F2F4;
+}
+.read_more{
+    border-bottom: 1px solid var(--button-color)!important;
+}
+
+/*  ========================================== footer Section CSS ================================= */
+.bg_dark{
+    background-color: #1F1F2E;
+}
+.last_icon a{
+    color: white;
+    text-align: center;
+    line-height: 36px;
+    border-radius: 50%;
+    border: 1px solid var(--white-color);
+    height: 36px;
+    width: 36px;
+    transition: 0.5s;
+}
+.last_icon a:hover{
+    background-color: var(--white-color);
+    color: var(--black-color);
+}
+.q_link a{
+    display: block;
+}
+.q_link a:hover{
+    text-decoration: underline!important;
+}
+
+/*  ========================================== last Section CSS ================================= */
+.last{
+    border-top: 1px solid gray;
+}
+.last p a:hover{
+    text-decoration: underline!important;
+}
+.last_text a{
+    color: var(--white-color);
+    text-decoration: none!important;
+    margin-left: 40px;
+}
